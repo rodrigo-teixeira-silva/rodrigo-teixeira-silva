@@ -9,7 +9,7 @@ Apaixonado por texnologia, sou um profissional com foco no front-end e em análi
 
 <div align="center">
 
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/linkdri1/github-contribution-grid-snake.svg) 
   
 </div>
 
