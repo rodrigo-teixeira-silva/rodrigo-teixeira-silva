@@ -6,13 +6,11 @@ Apaixonado por texnologia, sou um profissional com foco no front-end e em análi
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=radical)
 
-
-<div align="center">
-
-
- ![Snake animation](https://github.com/linkdri1/github-contribution-grid-snake.svg) 
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Tecnologias que eu uso no meu dia 
 
