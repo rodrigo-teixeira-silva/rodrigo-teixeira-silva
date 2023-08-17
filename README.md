@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkdri1&hide_progress=true)
 
