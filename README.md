@@ -2,17 +2,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
 
-
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkdri1&hide_progress=true)
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
-
 
 ## Tecnologias que eu uso no meu dia 
 
