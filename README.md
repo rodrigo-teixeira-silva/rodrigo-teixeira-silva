@@ -5,6 +5,8 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkdri1&hide_progress=true)
 
 <div align="center">
