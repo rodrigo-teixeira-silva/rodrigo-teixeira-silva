@@ -4,7 +4,7 @@ Apaixonado por texnologia, sou um profissional com foco no desenvolvimento mobil
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=linkdri1&show_icons=true&theme=radical)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-teixeira-silva1&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia 
 
