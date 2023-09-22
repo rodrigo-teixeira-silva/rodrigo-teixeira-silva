@@ -1,4 +1,4 @@
-## Oiii eu sou a Rodrigo Teixeira, desenvolvedor front end, mobile e suporte a CI/CD.👋
+## Oiii eu sou a Rodrigo Teixeira, desenvolvedor mobile com react native, kotlin, suporte a CI/CD e teste de unidade.👋
 
 Apaixonado por texnologia, sou um profissional com foco no desenvolvimento mobile, análise de documentação e integração/entrega contínua (CI/CD). Minha jornada é moldada pela emoção de transformar códigos em experiências visuais envolventes, garantindo a coesão entre design e funcionalidade. Além disso, minha dedicação em otimizar processos de desenvolvimento através de uma implementação de CI/CD reflete meu compromisso em entregar soluções eficientes e inovadoras.
 
