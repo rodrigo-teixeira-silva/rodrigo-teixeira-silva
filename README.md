@@ -3,8 +3,6 @@
 Apaixonado por texnologia, sou um profissional com foco no desenvolvimento mobile. automação de testes e integração/entrega contínua (CI/CD). Minha jornada é moldada pela emoção de transformar códigos em experiências visuais envolventes, garantindo a coesão entre design e funcionalidade. Além disso, minha dedicação em otimizar processos de desenvolvimento através de uma implementação de CI/CD reflete meu compromisso em entregar soluções eficientes e inovadoras.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigo.teixeira.dev@gmail.com)
-
 
 
 ## Tecnologias que eu uso no meu dia 
