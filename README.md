@@ -8,8 +8,6 @@
         <a href="https://www.linkedin.com/in/rodrigo-teixeira-silva/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
-    </div>
-    <img src="/home/link/Documentos/rodrigo-teixeira-silva/imagem_perfil/octocat-1728977678959.png" alt="Profile Image" style="width: 200px; height: 260px;">
 </div>
 
 
