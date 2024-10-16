@@ -1,6 +1,6 @@
 ## Rodrigo Teixeira. 👋
 
-I'm a professional focused on mobile development, test automation and continuous integration/delivery (CI/CD). My journey is driven by the thrill of transforming code into engaging visual experiences, ensuring cohesion between design and functionality. 
+I'm a professional focused on mobile development, test automation and continuous integration/delivery (CI/CD). My journey<br> is driven by the thrill of transforming code into engaging visual experiences, ensuring cohesion between design and functionality. 
 
 ### Connect with me
 
@@ -11,13 +11,6 @@ I'm a professional focused on mobile development, test automation and continuous
 <a href="https://github.com/rodrigo-teixeira-silva">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-teixeira-silva&theme=tokyonight" />
 </a>
-
-<br>
-
-<a href="https://github.com/rodrigo-teixeira-silva">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-teixeira-silva&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-
 
 ## Tecnologias que eu uso no meu dia 
 
