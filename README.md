@@ -1,10 +1,17 @@
 ## Rodrigo Teixeira. 👋
 
-I'm a professional focused on mobile development, test automation and continuous integration/delivery (CI/CD). My journey<br> is driven by the thrill of transforming code into engaging visual experiences, ensuring cohesion between design and functionality. 
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+    <div style="margin-right: 20px; max-width: 400px;">
+        <h3>
+        <p>I'm a professional focused on mobile development, test automation, and continuous integration/delivery (CI/CD). My journey is driven by the thrill of transforming code into engaging visual experiences, ensuring cohesion between design and functionality.</p>
+        <h3>Connect with me</h3>
+        <a href="https://www.linkedin.com/in/rodrigo-teixeira-silva/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+    </div>
+    <img src="/home/link/Documentos/rodrigo-teixeira-silva/imagem_perfil/octocat-1728977678959.png" alt="Profile Image" style="width: 200px; height: 260px;">
+</div>
 
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
 
 ### GitHub Starts
 
